@@ -14,7 +14,7 @@
 					<div class="card card-custom bg-gray-100 gutter-b card-stretch">
 						<!--begin::Header-->
 						<div class="card-header border-0 bg-primary py-5">
-							<h3 class="card-title font-weight-bolder text-white">Proses</h3>
+							<h3 class="card-title font-weight-bolder text-white">Proses test</h3>
 							<div class="card-toolbar">
 								<div class="dropdown dropdown-inline">
 								</div>
